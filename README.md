@@ -1,7 +1,7 @@
 # Auto-RP-bewerbung
 !!!PLEASE READ!!!
 
-!!!Der Microsoft Defender weist darauf hin, dass diese Datei möglicherweise ein Risiko für Ihren PC darstellt. Ich versichere Ihnen jedoch, dass diese Datei keinen Virus oder ähnliches enthält. Diese Nachricht kommt nur, weil ich kein verifizierter Herausgeber bin!!!
+!!!DER MICROSOFT DEFENDER WEIST DARAUF HIN, DASS DIESE DATEI MÖGLICHERWEISE EIN RISIKO FÜR IHREN PC DARSTELLT. ICH VERSICHERE IHNEN JEDOCH, DASS DIESE DATEI KEINEN VIRUS ODER ÄHNLICHES ENTHÄLT. DIESE NACHRICHT KOMMT NUR, WEIL ICH KEIN VERIFIZIERTER HERAUSGEBER BIN!!!
 
 !!!BITTE TUE DIESES SCRIPT NIRGENSWO ANDERS VERÖFFENTLICHEN ODER ALS DEINS AUSGEBEN!!!
 ----------
